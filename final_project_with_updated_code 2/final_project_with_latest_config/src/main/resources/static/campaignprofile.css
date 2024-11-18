@@ -1,0 +1,68 @@
+
+#card{
+  color: red;
+  background-color: white;
+  border: 1px solid red;
+  margin: 2% 5% 5% 6%;
+
+}
+.imageFund{
+  height: 13rem;
+  margin: 0 0 0 20%;
+
+}
+.hover:hover{
+  background-color: yellow;
+
+}
+#greeting{
+  margin-left: 40%;
+}
+.Welcome{
+  text-align: center;
+  margin-top: 10%;
+}
+
+.logout{
+  float: right;
+  margin-top: -9%;
+}
+#colorFooter{
+  /* background: rgba(0,0,0,0.5)!important; */
+  background-color: #0C2340 !important;
+
+
+}
+.topcontainer{
+  /* height: 23rem; */
+  background-color: #D3D3D3	;
+  /* margin-top: 10%; */
+  /* height: 32rem; */
+}
+.child{
+  padding-top: 2%;
+  margin-left: 20%;
+
+
+
+}
+footer{
+  background-color:#FFFFFF;
+  color:white;
+}
+li{
+  list-style: none;
+}
+.test{
+margin:0 3% 0 0;
+width:20rem;
+display: inline-block;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+background-color: white;
+}
+h2{
+  margin-left: 12%;
+  padding-top: 9%;
+  color:red;
+
+}

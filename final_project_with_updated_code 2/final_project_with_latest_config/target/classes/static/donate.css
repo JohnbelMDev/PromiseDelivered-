@@ -1,0 +1,60 @@
+
+h4{
+  text-align: center;
+  margin: 0 15% 2px 1px;
+
+}
+#fullName{
+  margin-top: 2%;
+}
+#submit{
+  margin: 0 0 4% 1%;
+}
+#stripe{
+  margin-left: 35%;
+}
+.form-group {
+    margin-bottom: 1rem;
+    padding: 1% 8% 0% 3%;
+}
+footer {
+  background-color: #0C2340;
+  color:white;
+}
+.line{
+  /* display: inline; */
+  padding: 0 0 0 5%;
+}
+.black{
+  color: black !important;
+}
+.text-white{
+  color:black !important;
+}
+.ElementsApp .ElementsApp .InputElement {
+    color:black !important;
+    /* color: #fff; */
+}
+body{
+  /* background-color: gray; */
+  /* background-image: url('https://149354000.v2.pressablecdn.com/wp-content/uploads/2020/04/photo-1553203938-5faaf546f1ad.jpeg'); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.group{
+  width: 60%;
+  background: white;
+  margin-left: 25%;
+  margin-top: 18%;
+  color:black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ background-color: white;
+
+}
+#colorFooter{
+  /* background: rgba(0,0,0,0.5)!important; */
+  background-color: #0C2340 !important;
+  margin: 12% 0 0 0;
+
+}

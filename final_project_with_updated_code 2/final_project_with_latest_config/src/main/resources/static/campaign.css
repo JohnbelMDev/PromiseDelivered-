@@ -1,0 +1,78 @@
+body{
+  /* background-image: url('https://cdn.theatlantic.com/thumbor/atdUvJmwafJUC4Hk3YAQWPCSdiE=/900x600/media/img/photo/2015/02/the-2015-sony-world-photography-awards-3/w03_130686624030589023/original.jpg');
+  background-repeat: no-repeat;
+  background-size:cover; */
+  background-color: #FBF8F6 !important;
+}
+
+
+.form-group{
+  width: 40%;
+  margin-left: 29%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+
+}
+.color{
+  color: black;
+}
+
+footer{
+  /* background-color:black!important; */
+  margin-top: 4%!important;
+  color:white;
+}
+#colorFooter{
+  /* background: rgba(0,0,0,0.5)!important; */
+  background-color: #0C2340!important;
+
+
+}
+li{
+  list-style: none;
+}
+
+.childContainer{
+  padding-top: 4%;
+}
+p{
+  color: white;
+}
+#Welcome{
+  margin:0 14% 0 0;
+}
+.container{
+  /* margin-left: 5%!important; */
+  width:50% !important;
+  height: 42rem;
+  margin-top: 4%!important;
+  /* box-shadow: 3px 3px; */
+  /* border:1px solid white; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: white;
+}
+.left01{
+  margin-left: 48%;
+  box-shadow: 3px 3px;
+
+}
+h1{
+  text-align: center;
+  color:red;
+}
+input{
+  display: block;
+}
+.card{
+  display: inline-block;
+  margin-left: 20%;
+}
+/* .col-sm-6{
+  display: none;
+} */
+.fund{
+  width: 20%;
+}
+.formInput{
+  margin-left: 50%;
+}
